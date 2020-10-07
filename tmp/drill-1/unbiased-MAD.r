@@ -2,7 +2,6 @@
 
 library(rQCC)
 
-
 iter = 10000L
 
 n = 50

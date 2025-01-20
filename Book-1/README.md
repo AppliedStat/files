@@ -9,7 +9,7 @@
 - **ch03.pdf**: A/D변확과 PC/AT
 - **ch04.pdf**: Sampling과 Aliasing
 - **ch05.pdf**: 전달함수
-- **ch06.pdf**: 보의 스프링 상수 (straing gage)
+- **ch06.pdf**: 보의 스프링 상수 (strain gage)
 - **ch07.pdf**: 보의 스프링 상수 (LVDT)
 - **ch08.pdf**: 광탄성
 - **ch09.pdf**: Pitot관을 이용한 유속의 측정

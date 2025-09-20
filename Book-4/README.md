@@ -2,8 +2,8 @@
 ## 저자: 이강현 
 
 * Cover Page
-  + [**00-Coverpage.pdf**]: Cover Page
-  + [**Contents.pdf**]: 목차
+  + [**Cover Page**](https://github.com/AppliedStat/files/blob/master/Book-4/00-Coverpage.pdf): Cover Page
+  + [**Contents**](https://github.com/AppliedStat/files/blob/master/Book-4/Contents.pdf): 목차
 
 * 제1편 기초제도
   + [**Chapter 1**](https://github.com/AppliedStat/files/blob/master/Book-4/Part-1-Chapter-1.pdf): 기본사항

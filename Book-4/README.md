@@ -1,8 +1,8 @@
 # Basic Machine Design (Basic Machine Design) (\#KIT)
 ---
-저자: 이강현 
+## 저자: 이강현 
 
-1988년 출판.
+## 1988년 출판.
 
 ---
 * Cover Page

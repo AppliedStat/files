@@ -1,4 +1,4 @@
-# Basic Machine Design (Basic Machine Design) (\#KIT)
+# 기초기계제도 (Basic Machine Design) 
 ## 저자: 이강현 
 
 * Cover Page

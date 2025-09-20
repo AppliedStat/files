@@ -3,7 +3,7 @@
 1992년 2월 29일 제2판 출판.
 
 ---
-- [** Contents **](https://github.com/AppliedStat/files/tree/master/Book-1/ch00.pdf): 표지, 머릿말, 목차
+- [ **Contents** ](https://github.com/AppliedStat/files/tree/master/Book-1/ch00.pdf): 표지, 머릿말, 목차
 - [**Chapter 01**](https://github.com/AppliedStat/files/tree/master/Book-1/ch01.pdf): 공통 실험 장치의 사용법
 - [**Chapter 02**](https://github.com/AppliedStat/files/tree/master/Book-1/ch02.pdf): 아날로그 신호의 조절
 - [**Chapter 03**](https://github.com/AppliedStat/files/tree/master/Book-1/ch03.pdf): A/D변확과 PC/AT

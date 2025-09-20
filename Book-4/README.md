@@ -1,8 +1,7 @@
 # 기초기계제도 (Basic Machine Design) 
 ## 저자: 이강현 
 
-* Cover Page
-  + [**Cover Page**](https://github.com/AppliedStat/files/blob/master/Book-4/00-Coverpage.pdf): Cover Page
+* Cover Page and Contents 
   + [**Contents**](https://github.com/AppliedStat/files/blob/master/Book-4/Contents.pdf): 목차
 
 * 제1편 기초제도

@@ -1,4 +1,4 @@
-# 기초기계제도 (Basic Machine Design) 
+# 기초기계제도 (Introduction to Machine Design) 
 ## 저자: 이강현 
 
 * 표지, 목차 

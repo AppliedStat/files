@@ -1,6 +1,6 @@
-# Statistical Computing: Existing Methods and Recent Developments <br/>
+# Basu, A. and C. Park (2024). Statistical Computing: Existing Methods and Recent Developments <br/>
 Alpha Science International. ISBN: 978-1842652022
 ---
 
-- Chapter-1: Basic numerical analysis technique
-- Chapter-7: Nonparametric smoothing
+- [**Chapter-1**](https://github.com/AppliedStat/files/blob/master/Book-2/Chapter-1-Basic.pdf): Basic numerical analysis technique
+- [**Chapter-7**](https://github.com/AppliedStat/files/blob/master/Book-2/Chapter-7-Nonparametric.pdf): Nonparametric smoothing

@@ -1,6 +1,4 @@
-## 기계공학 실험 I (\#KAIST / \#KIT)
----
-
+### 기계공학 실험 I (\#KAIST / \#KIT)
 Park, C. (1992). Mechanical Engineering Experiments I, Revised 2nd Ed. Published on Feb. 29, 1992. 
 
 --- 

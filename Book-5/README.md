@@ -1,5 +1,5 @@
-# 기초기계제도 (Introduction to Machine Design) 
-## 저자: 이강현 
+### 기초기계제도 (Introduction to Machine Design) 
+#### 저자: 이강현 
 ---
 
 - 아래 청색 Link를 click하시면 읽을 수 있습니다.

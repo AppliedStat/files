@@ -1,5 +1,10 @@
 # 기계공학 실험 I (\#KAIST / KIT)
 ---
+
+Park, C. (1992). Mechanical Engineering Experiments I, Revised 2nd Ed. Published on Feb. 29, 1992
+
+--- 
+
 - 1992년 2월 29일 제2판 출판. 
 - 아래 청색 Link를 click하시면 읽을 수 있습니다.
 - click후에 파일이 깨져 보이는 경우, 우측 상단에 있는 Download button(아래 방향 화살포)을 click하여 download한후 PC에서 PDF reader로 읽으시면 큰 문제 없이 보실 수 있습니다. 

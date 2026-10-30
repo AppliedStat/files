@@ -1,4 +1,4 @@
-# Basu, A. and C. Park (2024). Statistical Computing: Existing Methods and Recent Developments <br/>
+### Basu, A. and C. Park (2024). Statistical Computing: Existing Methods and Recent Developments. 
 Alpha Science International. ISBN: 978-1842652022
 ---
 
